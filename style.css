@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(23, 114, 117, 0.377);
+}
+div{
+    padding-top: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+}
+button {
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+}
+button:hover {
+    background-color: aqua;
+    box-shadow: 1px 1px 15px black;
+}
